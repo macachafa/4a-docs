@@ -2,21 +2,22 @@
 
 ## Usando Django como microservicio
 
-1. ## Crear Enviroment
+### 1. Crear Enviroment
 ```
 python -m venv env
 ```
-1. ### Usar Enviroment
+
+### 2. Usar Enviroment
 ```
 env\Scripts\activate
 ```
 
-1. ### Instalar librerias
+### 3. Instalar librerias
 ```
 pip install -r requirements.txt 
 ```
 
-1. ### Correr servidor
+### 4. Correr servidor
 ```
 python manage.py runserver
 ```
